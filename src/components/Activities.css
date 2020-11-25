@@ -1,0 +1,9 @@
+li::marker {
+  color: aliceblue;
+}
+.completed-activities ul li {
+  color: wheat;
+}
+.upcoming-activities ul li {
+  color: wheat;
+}
